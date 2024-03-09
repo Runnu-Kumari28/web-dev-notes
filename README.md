@@ -73,6 +73,8 @@ contains pointer notes on web dev technologies
      ** px--> absolute units, such as px, tie to physical units of length. Absolute length units approximate the actual measurement on a screen.
      ** em--> Relative units, such as em, are relative to another length value. For example, em is based on the size of an element's font.
      ** if the font size is 16px then 1em would equal 16px. 0.5em would equal 8px.
+  *CSS is read from top to bottom, so the last value read by the browser will be displayed on the web page.
+
      
      
     
